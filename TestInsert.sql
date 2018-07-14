@@ -1,0 +1,1 @@
+Insert Into DataBase.table values('1','2')
